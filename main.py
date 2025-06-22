@@ -37,4 +37,3 @@ async def predict(file: UploadFile = File(...)):
     prediction=runModel(image,cvImg)
     return {"result": prediction}
 
-
