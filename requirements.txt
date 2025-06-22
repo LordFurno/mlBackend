@@ -6,3 +6,4 @@ scikit-learn
 numpy
 scipy
 torchvision
+uvicorn
