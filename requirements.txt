@@ -1,0 +1,9 @@
+fastapi
+torch
+pillow
+scikit-image
+scikit-learn
+numpy
+scipy
+torchvision
+uvicorn
